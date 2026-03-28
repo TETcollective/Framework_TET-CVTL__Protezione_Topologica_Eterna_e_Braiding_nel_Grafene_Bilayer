@@ -3,7 +3,7 @@ Framework TET-CVTL (Topological Eternal Trefoil – Chiral Vacuum Torque Loop): 
 
 
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19298546.svg)](https://doi.org/10.5281/zenodo.19298546)
 
 
 # Framework TET–CVTL
@@ -45,6 +45,9 @@ Vedi il file [LICENSE.md](LICENSE.md) per i dettagli completi.
   year         = {2026},
   month        = {March},
   publisher    = {TET Collective},
-  howpublished = {\url{https://github.com/TETcollective/TET-CVTL-Framework}},
+  howpublished =
+  doi          =
+https://doi.org/10.5281/zenodo.19298546
+{\url{https://github.com/TETcollective/TET-CVTL-Framework}},
   note         = {tetcollective.org}
 }
