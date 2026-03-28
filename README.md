@@ -36,18 +36,17 @@ Questo lavoro è rilasciato sotto **CC BY-NC-ND 4.0** (Attribution-NonCommercial
 
 Vedi il file [LICENSE.md](LICENSE.md) per i dettagli completi.
 
-## Come citare
 
-```bibtex
+
+
 @misc{soliman2026_tetcvtl,
-  author       = {Simon Soliman},
-  title        = {Framework TET-CVTL: Protezione Topologica Eterna e Braiding nel Grafene Bilayer Twisted},
+  author       = {Soliman, Simon},
+  title        = {Framework TET-CVTL: Topological Eternal Trefoil -- Chiral Vacuum Torque Loop. Eternal Topological Protection and Anyon Braiding in Twisted Bilayer Graphene for Persistent Chiral Torque Generation from the Quantum Vacuum and Applications to Interstellar Propulsion},
   year         = {2026},
   month        = {March},
   publisher    = {TET Collective},
-  howpublished =
-  doi          =
-https://doi.org/10.5281/zenodo.19298546
-{\url{https://github.com/TETcollective/TET-CVTL-Framework}},
-  note         = {tetcollective.org}
+  doi          = {10.5281/zenodo.19298546},
+  url          = {https://github.com/TETcollective/Framework_TET-CVTL__Protezione_Topologica_Eterna_e_Braiding_nel_Grafene_Bilayer},
+  note         = {tetcollective.org},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.19298546}}
 }
