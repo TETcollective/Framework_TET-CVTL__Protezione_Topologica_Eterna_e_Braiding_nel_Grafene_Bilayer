@@ -37,7 +37,7 @@ Questo lavoro è rilasciato sotto **CC BY-NC-ND 4.0** (Attribution-NonCommercial
 Vedi il file [LICENSE.md](LICENSE.md) per i dettagli completi.
 
 
-
+##Come citare
 
 @misc{soliman2026_tetcvtl,
   author       = {Soliman, Simon},
