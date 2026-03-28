@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this framework or the preprint, please cite it as below."
+title: "Framework TET-CVTL: Topological Eternal Trefoil – Chiral Vacuum Torque Loop. Eternal Topological Protection and Anyon Braiding in Twisted Bilayer Graphene for Persistent Chiral Torque Generation from the Quantum Vacuum and Applications to Interstellar Propulsion"
+authors:
+  - family-names: "Soliman"
+    given-names: "Simon"
+    orcid: "https://orcid.org/0009-0002-3533-3772"
+    affiliation: "TET Collective, Roma, Italy"
+    website: "https://tetcollective.org"
+date-released: "2026-03-24"
+version: "1.0.0"
+doi: "10.5281/zenodo.19298546"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19298546"
+  - type: url
+    value: "https://github.com/TETcollective/Framework_TET-CVTL__Protezione_Topologica_Eterna_e_Braiding_nel_Grafene_Bilayer"
+keywords:
+  - Fibonacci anyons
+  - parafermions
+  - twisted bilayer graphene
+  - chiral vacuum torque
+  - golden ratio amplification
+  - eternal anyon braiding
+  - trefoil knot
+  - propellantless propulsion
+type: "article"
+preferred-citation:
+  type: "article"
+  authors:
+    - family-names: "Soliman"
+      given-names: "Simon"
+  title: "Framework TET-CVTL: Topological Eternal Trefoil – Chiral Vacuum Torque Loop"
+  year: 2026
+  month: 3
+  publisher: "TET Collective"
+  doi: "10.5281/zenodo.19298546"
+  url: "https://github.com/TETcollective/Framework_TET-CVTL__Protezione_Topologica_Eterna_e_Braiding_nel_Grafene_Bilayer"
